@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/fpathconf.dir/fpathconf.c.o -o fpathconf 

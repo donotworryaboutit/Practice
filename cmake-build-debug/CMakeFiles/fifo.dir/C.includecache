@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/skl/CLionProjects/Practice/fifo.c
+stdio.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+stdlib.h
+-
+unistd.h
+-
+

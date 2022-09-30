@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/skl/CLionProjects/Practice/mmap_anon.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/mman.h
+-
+fcntl.h
+-
+string.h
+-
+wait.h
+-
+

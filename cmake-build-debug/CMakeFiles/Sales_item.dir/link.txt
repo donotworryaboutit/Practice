@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Sales_item.dir/Sales_item.cpp.o -o Sales_item 

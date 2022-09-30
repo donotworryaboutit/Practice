@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Person.dir/Person.cpp.o -o Person 

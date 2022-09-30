@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/parent-child-ipc.dir/parent-child-ipc.c.o -o parent-child-ipc 

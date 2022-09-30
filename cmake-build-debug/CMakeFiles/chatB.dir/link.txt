@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/chatB.dir/chatB.c.o -o chatB 

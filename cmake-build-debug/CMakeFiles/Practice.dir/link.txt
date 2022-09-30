@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Practice.dir/main.cpp.o CMakeFiles/Practice.dir/operator.cpp.o -o Practice 

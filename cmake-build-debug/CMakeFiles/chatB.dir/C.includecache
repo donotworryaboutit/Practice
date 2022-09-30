@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/skl/CLionProjects/Practice/chatB.c
+stdio.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+fcntl.h
+-
+string.h
+-
+

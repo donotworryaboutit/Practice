@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.19)
+project(Practice)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Practice main.cpp operator.cpp)
+add_executable(cin cin.cpp )
+add_executable(Sales_item Sales_item.cpp)
+
+add_executable(Person Person.cpp)
+add_executable(pipe pipe.c)
+add_executable(fpathconf fpathconf.c)
+add_executable(parent-child-ipc parent-child-ipc.c)
+add_executable(noblock noblock.c)
+add_executable(fifo fifo.c)
+add_executable(write write.c)
+add_executable(read read.c)
+add_executable(chatA chatA.c)
+add_executable(chatB chatB.c)
+add_executable(test test.c)
+add_executable(mmap mmap.c)
+add_executable(copy copy.c)
+add_executable(mmap_anon mmap_anon.c)

@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/mmap.dir/mmap.c.o -o mmap 
